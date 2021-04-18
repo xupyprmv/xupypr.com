@@ -26,19 +26,16 @@ Experience:
   - Employer: Freelancer
     Place: Worldwide
     Positions:
-      - Title: Senior Java Developer at www.mynd.com
-        Date: Dec 2016 - Present
+      - Title: Head of Engineering at JustPlay Gmbh www.justplayapps.com
+        Date: Feb 2021 - Present
         Details:
-          - Software for property management company
-          - Java / Kotlin
-          - AWS
-          - Microservices architecture
-          - Guice / rxJava / protobuf / gRPC
-          - DynamoDB / AuroraDB
-          - Engineering team lead role (from Jan 2018)
-          - Software solutions for accounting team
-          - Software solutions for property management team (owners)
-        Badges: ['Java','Kotlin','AWS']
+          - Kotlin on backend
+          - Ktor / Exposed
+          - Google Cloud / GAE / PubSub / Firebase
+          - MySQL
+          - BI / ChartIO
+          - Facetec
+        Badges: ['Kotlin','Google Cloud']
       - Title: Java Developer at www.pbnhq.com
         Date: Nov 2015 - Present
         Details:
@@ -48,6 +45,19 @@ Experience:
           - Content scraping
           - WHOIS data capture
         Badges: ['Java','Multi-threading','AWS']
+      - Title: Senior Java Developer at www.mynd.com
+        Date: Dec 2016 - Feb 2021
+        Details:
+          - Software for property management company
+          - Java / Kotlin
+          - AWS
+          - Microservices architecture
+          - Guice / rxJava / protobuf / gRPC
+          - DynamoDB / AuroraDB
+          - Engineering team lead role (from Jan 2019)
+          - Software solutions for accounting team
+          - Software solutions for property management team (owners)
+        Badges: ['Java','Kotlin','AWS']
       - Title: Software Developer at www.riveragroup.com
         Date: June 2016 - Mar 2018
         Details:
