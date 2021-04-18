@@ -1,0 +1,171 @@
+BasicInfo:
+  FirstName: Vladimir
+  LastName: Maksimenko
+  Photo: img/avatar.jpeg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: xupypr@xupypr.com
+    - Icon: fas fa-phone
+      Info: +7 912-863-68-07
+    - Icon: fab fa-skype
+      Info: xupyprmv
+    - Icon: fab fa-telegram
+      Info: '@xupyprmv'
+    - Icon: fab fa-linkedin
+      Info: xupypr
+    - Icon: fab fa-github
+      Info: xupyprmv
+    - Icon: fas fa-globe
+      Info: www.xupypr.com
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: I have about 15 years of experience in java and java-based programming languages (Kotlin, Groovy). I like programming, interested in algorithms and software development methodologies. I love clear, intuitive and well-tested code. Code, that you can rely on.
+
+Experience:
+  - Employer: Freelancer
+    Place: Worldwide
+    Positions:
+      - Title: Senior Java Developer at www.mynd.com
+        Date: Dec 2016 - Present
+        Details:
+          - Software for property management company
+          - Java / Kotlin
+          - AWS
+          - Microservices architecture
+          - Guice / rxJava / protobuf / gRPC
+          - DynamoDB / AuroraDB
+          - Engineering team lead role (from Jan 2018)
+          - Software solutions for accounting team
+          - Software solutions for property management team (owners)
+        Badges: ['Java','Kotlin','AWS']
+      - Title: Java Developer at www.pbnhq.com
+        Date: Nov 2015 - Present
+        Details:
+          - Domain analysis tools
+          - http://domainronin.com - web crawler
+          - http://www.spamzilla.io - domain content analysis
+          - Content scraping
+          - WHOIS data capture
+        Badges: ['Java','Multi-threading','AWS']
+      - Title: Software Developer at www.riveragroup.com
+        Date: June 2016 - Mar 2018
+        Details:
+          - Backend components
+          - CI/CD pipelines in cloud
+        Badges: ['Java','Google Cloud','AWS']
+  - Employer: Semantic Machines, LLC (Russia)
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: R&D Department head & Co-Founder
+        Date: Jan 2013 - Jan 2017
+        Details:
+          - Document automation system
+        Badges: ['Java', 'Spring', 'JSP', 'HTML', 'jQuery']
+  - Employer:
+    Place: Yaroslavl, RU
+    Positions:
+      - Title: Conscript military service, corporal
+        Date: Dec 2011 - Dec 2012
+        Details:
+          - Schedule related problems
+        Badges: ['MS Excel','VBA', 'MS Access']
+  - Employer: Mondi Business Paper Syktyvkar
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: Programmer
+        Date: Jun 2010 - Oct 2011
+        Details:
+          - Document automation system
+        Badges: ['Java', 'Spring', 'JSP', 'HTML', 'jQuery']
+  - Employer: Republic Information Center of Education Quality Evaluation
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: Chief technical officer
+        Date: Jun 2009 - Jun 2010
+        Details:
+          - Analytics software
+        Badges: ['Java','PHP', 'ABBYY FormReader']
+  - Employer: Syktyvkar State University
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: Teacher
+        Date: Feb 2009 - Jun 2011
+        Details:
+          - Course "Java programming"
+        Badges: ['Java']
+  - Employer: Magnetosoft LLC
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: Programmer
+        Date: Sep 2007 - Jun 2009
+        Details:
+          - Document automation system
+        Badges: ['Java', 'Spring']
+  - Employer: Republic Information Center of Education Quality Evaluation
+    Place: Syktyvkar, RU
+    Positions:
+      - Title: Programmer
+        Date: May 2005 - Sep 2007
+        Details:
+          - Analytics software
+        Badges: ['PHP']
+  - Employer: Children Additional Education Center
+    Place: Usinsk, RU
+    Positions:
+      - Title: Computer technician
+        Date: Apr 2000 - May 2002
+        Details:
+          - Hardware maintenance, repair and operations
+        Badges: ['Hardware']
+
+Education:
+  - Course: Postgraduate study
+    Place: Syktyvkar State University, RU
+    Date: Sep 2002 - July 2007
+    Details: Mathematical modeling, Computational science and Software
+  - Course: Specialist, Applied Mathematics and Informatics
+    Place: Syktyvkar State University, RU
+    Date: Sep 2002 - July 2007
+    Details: Summa cum laude
+
+Skills:
+  - Family: Programming
+    Items:
+      - Java
+      - Kotlin
+  - Family: Libraries
+    Items:
+      - Spring Boot
+      - rxJava
+      - Hibernate
+      - Liquibase
+      - Guice
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins / Bamboo / CircleCI
+      - AWS
+  - Family: Misc
+    Items:
+      - SCRUM
+      - Linux
+      - HTML
+      - protobuf
+      - JavaScript (jQuery / jsPlumb)
+
+Languages:
+  - Name: Russian
+    Level: Native
+  - Name: English
+    Level: B2
+
+Diplomas:
+  - Oracle Certified Professional, Java SE 11 Developer (Aug 2020)
+  - Oracle Certified Professional, Java SE 8 Programmer (Jul 2016)
+  - Oracle Certified Professional, Java SE 6 Programmer (Mar 2013)
+
+Interests:
+  - Programming
+  - Traveling
