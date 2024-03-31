@@ -26,8 +26,17 @@ Experience:
   - Employer: Freelancer
     Place: Worldwide
     Positions:
+      - Title: VP of Engineering at JustPlay Gmbh
+        Date: Apr 2023 - Present
+        Details:
+          - Enineering team management
+          - Kotlin on backend
+          - Ktor / Exposed
+          - Google Cloud / GAE / PubSub / Firebase / BiqQuery / SQL
+          - BI / Metabase
+        Badges: ['Kotlin','Google Cloud']
       - Title: Head of Engineering at JustPlay Gmbh
-        Date: Feb 2021 - Present
+        Date: Feb 2021 - Apr 2023
         Details:
           - Kotlin on backend
           - Ktor / Exposed
@@ -37,7 +46,7 @@ Experience:
           - Facetec
         Badges: ['Kotlin','Google Cloud']
       - Title: Java Developer at www.pbnhq.com
-        Date: Nov 2015 - Present
+        Date: Nov 2015 - Feb 2021
         Details:
           - Domain analysis tools
           - http://domainronin.com - web crawler
@@ -45,8 +54,21 @@ Experience:
           - Content scraping
           - WHOIS data capture
         Badges: ['Java','Multi-threading','AWS']
+      - Title: Engineering team Lead at www.mynd.com
+        Date: Jan 2019 - Feb 2021
+        Details:
+          - Software for property management company
+          - Java / Kotlin
+          - AWS
+          - Microservices architecture
+          - Guice / rxJava / protobuf / gRPC
+          - DynamoDB / AuroraDB
+          - Engineering team lead role (from Jan 2019)
+          - Software solutions for accounting team
+          - Software solutions for property management team (owners)
+        Badges: ['Java','Kotlin','AWS']
       - Title: Senior Java Developer at www.mynd.com
-        Date: Dec 2016 - Feb 2021
+        Date: Dec 2016 - Jan 2019
         Details:
           - Software for property management company
           - Java / Kotlin
@@ -132,7 +154,7 @@ Experience:
 Education:
   - Course: Postgraduate study
     Place: Syktyvkar State University, RU
-    Date: Sep 2002 - July 2007
+    Date: Sep 2007 - July 2010
     Details: Mathematical modeling, Computational science and Software
   - Course: Specialist, Applied Mathematics and Informatics
     Place: Syktyvkar State University, RU
