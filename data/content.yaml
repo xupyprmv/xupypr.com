@@ -110,7 +110,9 @@ Experience:
         Details:
           - Document automation system
         Badges: ['Java', 'Spring', 'JSP', 'HTML', 'jQuery']
-  - Employer: Republic Information Center of Education Quality Evaluation
+  - Employer: > 
+      Republic Information Center 
+      of Education Quality Evaluation
     Place: Syktyvkar, RU
     Positions:
       - Title: Chief technical officer
