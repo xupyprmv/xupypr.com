@@ -110,7 +110,7 @@ Experience:
         Details:
           - Document automation system
         Badges: ['Java', 'Spring', 'JSP', 'HTML', 'jQuery']
-  - Employer: > 
+  - Employer: |
       Republic Information Center 
       of Education Quality Evaluation
     Place: Syktyvkar, RU
@@ -136,7 +136,9 @@ Experience:
         Details:
           - Document automation system
         Badges: ['Java', 'Spring']
-  - Employer: Republic Information Center of Education Quality Evaluation
+  - Employer: | 
+      Republic Information Center 
+      of Education Quality Evaluation
     Place: Syktyvkar, RU
     Positions:
       - Title: Programmer
